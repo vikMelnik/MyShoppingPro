@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.MyThemeNew" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:theme">@style/deepOrangeDark</item>
+<!--        <item name="materialAlertDialogTheme">@style/MyMaterialAlertDialog</item>-->
+        <item name="linearProgressIndicatorStyle">@style/Widget.App.LinerProgressIndicator</item>
+        <item name="materialCardViewStyle">@style/MyCardView</item>
+        <item name="toolbarNavigationButtonStyle">@style/MyBottomNavBar</item>
+        <item name="android:toolbarStyle">@style/MyToolBar</item>
+
+
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.App.BodyLarge</item>
+<!--        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.App.BodyLarge</item>-->
+        <item name="popupMenuBackground">@drawable/custom_popup_background</item>
+    </style>
+</resources>

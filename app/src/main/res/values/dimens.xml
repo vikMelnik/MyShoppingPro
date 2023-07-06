@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="favourite_dialog_padding">8dp</dimen>
+    <dimen name="margin_dialog_fragment">16sp</dimen>
+    <dimen name="dialog_text_size_shops">16sp</dimen>
+    <dimen name="icon_favorite">24dp</dimen>
+    <dimen name="title_shop_item_history">20sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_text_nav_bar">8dp</dimen>
+    <dimen name="icon_nav_bar">64dp</dimen>
+    <dimen name="margin_card_view">2dp</dimen>
+    <dimen name="margin_main_activity_top">8dp</dimen>
+    <dimen name="margin_main_activity_bottom">8dp</dimen>
+    <dimen name="margin_width_image">96dp</dimen>
+    <dimen name="margin_height_image">88dp</dimen>
+    <dimen name="disable_swipe_after">200dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <dimen name="margin_card_view_history">8dp</dimen>
+</resources>

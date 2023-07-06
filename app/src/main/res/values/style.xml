@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Cyan Style-->
+    <style name="cyanLight" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#006876</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorPrimaryContainer">#a1efff</item>
+        <item name="colorOnPrimaryContainer">#001f25</item>
+        <item name="colorSecondary">#4a6268</item>
+        <item name="colorOnSecondary">#ffffff</item>
+        <item name="colorSecondaryContainer">#cde7ed</item>
+        <item name="colorOnSecondaryContainer">#051f23</item>
+        <item name="colorTertiary">#545d7e</item>
+        <item name="colorOnTertiary">#ffffff</item>
+        <item name="colorTertiaryContainer">#dbe1ff</item>
+        <item name="colorOnTertiaryContainer">#101a37</item>
+        <item name="colorError">#ba1a1a</item>
+        <item name="colorOnError">#ffffff</item>
+        <item name="colorErrorContainer">#ffdad6</item>
+        <item name="colorOnErrorContainer">#410002</item>
+        <item name="colorOnBackground">#191c1d</item>
+        <item name="backgroundColor">#fbfcfd</item>
+        <item name="colorOnSurface">#191c1d</item>
+        <item name="colorSurface">#fbfcfd</item>
+        <item name="colorOutline">#6f797b</item>
+        <item name="colorSurfaceVariant">#dbe4e6</item>
+        <item name="colorOnSurfaceVariant">#3f484a</item>
+
+        <item name="mycolorNavIndicator">#00CCE7ED</item>
+        <item name="mycolorNavIconActiveIndicator">#006876</item>
+        <item name="mycolorNavIconInActiveIndicator">#3f484a</item>
+        <item name="layoutHistoryTitle">#dbe4e6</item>
+    </style>
+
+    <style name="cyanDark" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#44d8f1</item>
+        <item name="colorOnPrimary">#00363e</item>
+        <item name="colorPrimaryContainer">#004e59</item>
+        <item name="colorOnPrimaryContainer">#a1efff</item>
+        <item name="colorSecondary">#b1cbd1</item>
+        <item name="colorOnSecondary">#1c3439</item>
+        <item name="colorSecondaryContainer">#334a50</item>
+        <item name="colorOnSecondaryContainer">#cde7ed</item>
+        <item name="colorTertiary">#bcc5eb</item>
+        <item name="colorOnTertiary">#262f4d</item>
+        <item name="colorTertiaryContainer">#3c4665</item>
+        <item name="colorOnTertiaryContainer">#dbe1ff</item>
+        <item name="colorError">#ffb4ab</item>
+        <item name="colorOnError">#690005</item>
+        <item name="colorErrorContainer">#93000a</item>
+        <item name="colorOnErrorContainer">#ffdad6</item>
+        <item name="colorOnBackground">#e1e3e3</item>
+        <item name="backgroundColor">#191c1d</item>
+        <item name="colorOnSurface">#e1e3e3</item>
+        <item name="colorSurface">#191c1d</item>
+        <item name="colorOutline">#899295</item>
+        <item name="colorSurfaceVariant">#3f484a</item>
+        <item name="colorOnSurfaceVariant">#bfc8ca</item>
+
+        <item name="mycolorNavIndicator">#0033494F</item>
+        <item name="mycolorNavIconActiveIndicator">#44d8f1</item>
+        <item name="mycolorNavIconInActiveIndicator">#bfc8ca</item>
+        <item name="layoutHistoryTitle">#3f484a</item>
+    </style>
+
+    <!--    Amber Style-->
+    <style name="amberLight" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#785900</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorPrimaryContainer">#ffdf9e</item>
+        <item name="colorOnPrimaryContainer">#261a00</item>
+        <item name="colorSecondary">#6b5d3f</item>
+        <item name="colorOnSecondary">#ffffff</item>
+        <item name="colorSecondaryContainer">#f5e0bb</item>
+        <item name="colorOnSecondaryContainer">#241a04</item>
+        <item name="colorTertiary">#4a6547</item>
+        <item name="colorOnTertiary">#ffffff</item>
+        <item name="colorTertiaryContainer">#ccebc4</item>
+        <item name="colorOnTertiaryContainer">#072109</item>
+        <item name="colorError">#ba1a1a</item>
+        <item name="colorOnError">#ffffff</item>
+        <item name="colorErrorContainer">#ffdad6</item>
+        <item name="colorOnErrorContainer">#410002</item>
+        <item name="colorOnBackground">#1e1b16</item>
+        <item name="backgroundColor">#fffbff</item>
+        <item name="colorOnSurface">#1e1b16</item>
+        <item name="colorSurface">#fffbff</item>
+        <item name="colorOutline">#7f7667</item>
+        <item name="colorSurfaceVariant">#ede1cf</item>
+        <item name="colorOnSurfaceVariant">#4d4639</item>
+
+        <item name="mycolorNavIndicator">#03F5DFBA</item>
+        <item name="mycolorNavIconActiveIndicator">#785900</item>
+        <item name="mycolorNavIconInActiveIndicator">#4d4639</item>
+        <item name="layoutHistoryTitle">#ede1cf</item>
+    </style>
+
+    <style name="amberDark" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#fabd00</item>
+        <item name="colorOnPrimary">#3f2e00</item>
+        <item name="colorPrimaryContainer">#5b4300</item>
+        <item name="colorOnPrimaryContainer">#ffdf9e</item>
+        <item name="colorSecondary">#d8c4a0</item>
+        <item name="colorOnSecondary">#3a2f15</item>
+        <item name="colorSecondaryContainer">#52452a</item>
+        <item name="colorOnSecondaryContainer">#f5e0bb</item>
+        <item name="colorTertiary">#b0cfaa</item>
+        <item name="colorOnTertiary">#1d361c</item>
+        <item name="colorTertiaryContainer">#334d31</item>
+        <item name="colorOnTertiaryContainer">#ccebc4</item>
+        <item name="colorError">#ffb4ab</item>
+        <item name="colorOnError">#690005</item>
+        <item name="colorErrorContainer">#93000a</item>
+        <item name="colorOnErrorContainer">#ffdad6</item>
+        <item name="colorOnBackground">#e9e1d8</item>
+        <item name="backgroundColor">#1e1b16</item>
+        <item name="colorOnSurface">#e9e1d8</item>
+        <item name="colorSurface">#1e1b16</item>
+        <item name="colorOutline">#998f80</item>
+        <item name="colorSurfaceVariant">#4d4639</item>
+        <item name="colorOnSurfaceVariant">#d0c5b4</item>
+
+        <item name="mycolorNavIndicator">#0052452A</item>
+        <item name="mycolorNavIconActiveIndicator">#fabd00</item>
+        <item name="mycolorNavIconInActiveIndicator">#d0c5b4</item>
+        <item name="layoutHistoryTitle">#4d4639</item>
+    </style>
+
+    <!--    Red Style-->
+    <style name="redLight" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#bb1614</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorPrimaryContainer">#ffdad5</item>
+        <item name="colorOnPrimaryContainer">#410001</item>
+        <item name="colorSecondary">#775652</item>
+        <item name="colorOnSecondary">#ffffff</item>
+        <item name="colorSecondaryContainer">#ffdad5</item>
+        <item name="colorOnSecondaryContainer">#2c1512</item>
+        <item name="colorTertiary">#705c2e</item>
+        <item name="colorOnTertiary">#ffffff</item>
+        <item name="colorTertiaryContainer">#fcdfa6</item>
+        <item name="colorOnTertiaryContainer">#261a00</item>
+        <item name="colorError">#ba1a1a</item>
+        <item name="colorOnError">#ffffff</item>
+        <item name="colorErrorContainer">#ffdad6</item>
+        <item name="colorOnErrorContainer">#410002</item>
+        <item name="colorOnBackground">#201a19</item>
+        <item name="backgroundColor">#fffbff</item>
+        <item name="colorOnSurface">#201a19</item>
+        <item name="colorSurface">#fffbff</item>
+        <item name="colorOutline">#857370</item>
+        <item name="colorSurfaceVariant">#f5ddda</item>
+        <item name="colorOnSurfaceVariant">#534341</item>
+
+        <item name="mycolorNavIndicator">#00FFDBD6</item>
+        <item name="mycolorNavIconActiveIndicator">#bb1614</item>
+        <item name="mycolorNavIconInActiveIndicator">#534341</item>
+        <item name="layoutHistoryTitle">#f5ddda</item>
+        <item name="myCircleImage">#fcdfa6</item>
+    </style>
+
+    <style name="redDark" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#ffb4a9</item>
+        <item name="colorOnPrimary">#690002</item>
+        <item name="colorPrimaryContainer">#930005</item>
+        <item name="colorOnPrimaryContainer">#ffdad5</item>
+        <item name="colorSecondary">#e7bdb7</item>
+        <item name="colorOnSecondary">#442926</item>
+        <item name="colorSecondaryContainer">#5d3f3b</item>
+        <item name="colorOnSecondaryContainer">#ffdad5</item>
+        <item name="colorTertiary">#dfc38c</item>
+        <item name="colorOnTertiary">#3e2e04</item>
+        <item name="colorTertiaryContainer">#574419</item>
+        <item name="colorOnTertiaryContainer">#fcdfa6</item>
+        <item name="colorError">#ffb4ab</item>
+        <item name="colorOnError">#690005</item>
+        <item name="colorErrorContainer">#93000a</item>
+        <item name="colorOnErrorContainer">#ffdad6</item>
+        <item name="colorOnBackground">#ede0de</item>
+        <item name="backgroundColor">#201a19</item>
+        <item name="colorOnSurface">#ede0de</item>
+        <item name="colorSurface">#201a19</item>
+        <item name="colorOutline">#a08c89</item>
+        <item name="colorSurfaceVariant">#534341</item>
+        <item name="colorOnSurfaceVariant">#d8c2be</item>
+
+        <item name="mycolorNavIndicator">#005C3E3A</item>
+        <item name="mycolorNavIconActiveIndicator">#ffb4a9</item>
+        <item name="mycolorNavIconInActiveIndicator">#d8c2be</item>
+        <item name="layoutHistoryTitle">#534341</item>
+        <item name="myCircleImage">#d8c2be</item>
+    </style>
+
+    <!--    Deep Orange Style-->
+    <style name="deepOrangeLight" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#b02e00</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorPrimaryContainer">#ffdbd1</item>
+        <item name="colorOnPrimaryContainer">#3b0900</item>
+        <item name="colorSecondary">#77574e</item>
+        <item name="colorOnSecondary">#ffffff</item>
+        <item name="colorSecondaryContainer">#ffdbd1</item>
+        <item name="colorOnSecondaryContainer">#2c150f</item>
+        <item name="colorTertiary">#6c5d2f</item>
+        <item name="colorOnTertiary">#ffffff</item>
+        <item name="colorTertiaryContainer">#f6e1a6</item>
+        <item name="colorOnTertiaryContainer">#231b00</item>
+        <item name="colorError">#ba1a1a</item>
+        <item name="colorOnError">#ffffff</item>
+        <item name="colorErrorContainer">#ffdad6</item>
+        <item name="colorOnErrorContainer">#410002</item>
+        <item name="colorOnBackground">#201a18</item>
+        <item name="backgroundColor">#fffbff</item>
+        <item name="colorOnSurface">#201a18</item>
+        <item name="colorSurface">#fffbff</item>
+        <item name="colorOutline">#85736e</item>
+        <item name="colorSurfaceVariant">#f5ded8</item>
+        <item name="colorOnSurfaceVariant">#53433f</item>
+
+        <item name="mycolorNavIndicator">#00FFDBD1</item>
+        <item name="mycolorNavIconActiveIndicator">#b02e00</item>
+        <item name="mycolorNavIconInActiveIndicator">#53433f</item>
+        <item name="layoutHistoryTitle">#f5ded8</item>
+    </style>
+
+    <style name="deepOrangeDark" parent="Theme.MyThemeNew">
+        <item name="colorPrimary">#ffb5a0</item>
+        <item name="colorOnPrimary">#601500</item>
+        <item name="colorPrimaryContainer">#872100</item>
+        <item name="colorOnPrimaryContainer">#ffdbd1</item>
+        <item name="colorSecondary">#e7bdb2</item>
+        <item name="colorOnSecondary">#442a22</item>
+        <item name="colorSecondaryContainer">#5d4037</item>
+        <item name="colorOnSecondaryContainer">#ffdbd1</item>
+        <item name="colorTertiary">#d9c58d</item>
+        <item name="colorOnTertiary">#3b2f05</item>
+        <item name="colorTertiaryContainer">#534619</item>
+        <item name="colorOnTertiaryContainer">#f6e1a6</item>
+        <item name="colorError">#ffb4ab</item>
+        <item name="colorOnError">#690005</item>
+        <item name="colorErrorContainer">#93000a</item>
+        <item name="colorOnErrorContainer">#ffdad6</item>
+        <item name="colorOnBackground">#ede0dd</item>
+        <item name="backgroundColor">#201a18</item>
+        <item name="colorOnSurface">#ede0dd</item>
+        <item name="colorSurface">#201a18</item>
+        <item name="colorOutline">#a08c87</item>
+        <item name="colorSurfaceVariant">#53433f</item>
+        <item name="colorOnSurfaceVariant">#d8c2bc</item>
+
+        <item name="mycolorNavIndicator">#005C3F36</item>
+        <item name="mycolorNavIconActiveIndicator">#ffb5a0</item>
+        <item name="mycolorNavIconInActiveIndicator">#d8c2bc</item>
+        <item name="layoutHistoryTitle">#53433f</item>
+    </style>
+
+    <!--    <style name="Widget.App.PopupMenu" parent="Widget.MaterialComponents.PopupMenu">-->
+    <!--        <item name="android:popupBackground">@drawable/custom_popup_background</item>-->
+    <!--    </style>-->
+
+    <style name="TextAppearance.App.BodyLarge" parent="TextAppearance.Material3.BodyLarge">
+        <!--        <item name="fontFamily">@font/rubik_light</item>-->
+        <!--        <item name="android:fontFamily">@font/rubik_light</item>-->
+<!--                <item name="android:textColor">@color/red_600</item>-->
+    </style>
+
+    <style name="Widget.App.LinerProgressIndicator" parent="Widget.Material3.LinearProgressIndicator">
+        <!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+        <item name="indeterminateAnimationType">contiguous</item>
+        <item name="indicatorColor">@array/progress_colors</item>
+        <item name="trackThickness">5dp</item>
+    </style>
+
+    <style name="MyToolBar" parent="Widget.Material3.AppBarLayout">
+        <item name="titleTextAppearance">?attr/textAppearanceTitleLarge</item>
+        <!--        <item name="android:background">@color/amber_100</item>-->
+    </style>
+
+    <style name="MyBottomNavBar" parent="Widget.Material3.BottomNavigationView">
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <item name="itemActiveIndicatorStyle">@style/MyWidget.ActiveIndicator</item>
+        <item name="itemPaddingBottom">@dimen/padding_text_nav_bar</item>
+        <item name="android:minHeight">@dimen/icon_nav_bar</item>
+    </style>
+
+    <style name="MyWidget.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">?attr/mycolorNavIndicator</item>
+    </style>
+
+    <style name="MyCardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="shapeAppearance">?attr/shapeAppearanceCornerLarge</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+</resources>

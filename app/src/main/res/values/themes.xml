@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="MySplashTheme" parent="Theme.MyThemeNew">
+        <item name="android:windowBackground">@drawable/splash_backgraund</item>
+    </style>
+
+    <style name="Theme.MyThemeNew" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:theme">@style/deepOrangeLight</item>
+        <!--        <item name="materialAlertDialogTheme">@style/MyMaterialAlertDialog</item>-->
+        <item name="linearProgressIndicatorStyle">@style/Widget.App.LinerProgressIndicator</item>
+        <item name="materialCardViewStyle">@style/MyCardView</item>
+        <item name="toolbarNavigationButtonStyle">@style/MyBottomNavBar</item>
+        <item name="android:toolbarStyle">@style/MyToolBar</item>
+
+
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.App.BodyLarge</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.App.BodyLarge</item>
+        <item name="popupMenuBackground">@drawable/custom_popup_background</item>
+    </style>
+</resources>

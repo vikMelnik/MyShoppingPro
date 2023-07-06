@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drgoods">
+        <item>el_technics</item>
+        <item>comp_theatre</item>
+        <item>phone</item>
+        <item>build_remont</item>
+        <item>designe_decor</item>
+        <item>sad_ogorod</item>
+        <item>mebel</item>
+        <item>bit_tovar</item>
+        <item>office_oborud</item>
+        <item>odezhda_verh</item>
+        <item>shoes</item>
+        <item>odezhda_niz</item>
+        <item>odezhda</item>
+        <item>kids_odyg</item>
+        <item>kids_toys</item>
+        <item>clock</item>
+        <item>books</item>
+        <item>universal</item>
+        <item>food</item>
+        <item>coffee_tea</item>
+        <item>sports_goods</item>
+        <item>gifts</item>
+        <item>flowers</item>
+        <item>all_for_holiday</item>
+        <item>cosmetics</item>
+        <item>jewelry</item>
+        <item>bijutery</item>
+        <item>rest_turism</item>
+        <item>hunting_fishing</item>
+        <item>hobby</item>
+        <item>health</item>
+        <item>pharmacia</item>
+        <item>auto_products</item>
+        <item>auto_parts</item>
+        <item>tires_wheels</item>
+        <item>climat_oborud</item>
+        <item>plates</item>
+        <item>bags_walet</item>
+        <item>pets_goods</item>
+        <item>others</item>
+
+    </array>
+
+    <integer-array name="progress_colors">
+        <item>@color/purple_200</item>
+        <item>@color/red_600</item>
+        <item>@color/teal_a200</item>
+    </integer-array>
+</resources>

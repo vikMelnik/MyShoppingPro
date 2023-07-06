@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myBarColor" format="color"/>
+    <attr name="mycolorNavIndicator" format="color"/>
+    <attr name="mycolorNavIconActiveIndicator" format="color"/>
+    <attr name="mycolorNavIconInActiveIndicator" format="color"/>
+    <attr name="layoutHistoryTitle" format="color"/>
+    <attr name="myCircleImage" format="color"/>
+</resources>
